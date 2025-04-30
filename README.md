@@ -19,7 +19,9 @@
   <img src="https://komarev.com/ghpvc/?username=AbdulRauf-Sidd&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-  ![Cool Developer GIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWNkNGhhdzQ1N3UzOWR1eHY0a3JrMmljaXZmeXo5dnFuemF1ZjdlOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eUdtR10ZsxlFC/giphy.gif)
+<div align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWNkNGhhdzQ1N3UzOWR1eHY0a3JrMmljaXZmeXo5dnFuemF1ZjdlOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eUdtR10ZsxlFC/giphy.gif" alt="Cool Developer GIF" />
+</div>
 
 
 
