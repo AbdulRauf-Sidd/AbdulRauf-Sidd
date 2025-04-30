@@ -42,7 +42,7 @@
 
 <p align="center">
   <a href="https://github.com/AbdulRauf-Sidd/Deep-Keys">
-    <img src="https://img.shields.io/badge/Deep%20Keys-Informational?style=for-the-badge&logo=github&logoColor=white" alt="Project 1"/>
+    <img src="https://img.shields.io/badge/Deep%20Keys-00008B?style=for-the-badge&logo=github&logoColor=white" alt="Project 1"/>
   </a>
   <a href="https://github.com/AbdulRauf-Sidd/fin_scraper">
     <img src="https://img.shields.io/badge/Fin%20Scraper-00008B?style=for-the-badge&logo=github&logoColor=white" alt="Project 2"/>
@@ -52,7 +52,7 @@
 <h2 align="center">📈 GitHub Stats 📈</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdulRauf-Sidd&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdulRauf-Sidd&show_icons=true&theme=dark" alt="GitHub Stats"/>
 </p>
 
 <h2 align="center">🏆 GitHub Trophies 🏆</h2>
