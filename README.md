@@ -1,10 +1,7 @@
 <h1 align="center">Hi there, I'm AbdulRauf Siddiqui!</h1>
 
-<p align="center">
-  <a href="https://github.com/AbdulRauf-Sidd"><img src="https://avatars.githubusercontent.com/u/AbdulRauf-Sidd?v=4" width="150px;" alt="AbdulRauf Siddiqui"/></a>
-</p>
 
-<h3 align="center">A passionate developer from Asia </h3>
+<h3 align="center">A passionate developer from Pakistan! </h3>
 
 <p align="center">
   <a href="www.linkedin.com/in/abdulrauf-siddiqui-2b8972182">
@@ -45,7 +42,7 @@
 
 <p align="center">
   <a href="https://github.com/AbdulRauf-Sidd/Deep-Keys">
-    <img src="https://img.shields.io/badge/Project%201-Informational?style=for-the-badge&logo=github&logoColor=white" alt="Project 1"/>
+    <img src="https://img.shields.io/badge/Deep%20Keys-Informational?style=for-the-badge&logo=github&logoColor=white" alt="Project 1"/>
   </a>
   <a href="https://github.com/AbdulRauf-Sidd/fin_scraper">
     <img src="https://img.shields.io/badge/Project%202-Informational?style=for-the-badge&logo=github&logoColor=white" alt="Project 2"/>
