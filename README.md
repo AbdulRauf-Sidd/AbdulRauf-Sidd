@@ -45,7 +45,7 @@
     <img src="https://img.shields.io/badge/Deep%20Keys-Informational?style=for-the-badge&logo=github&logoColor=white" alt="Project 1"/>
   </a>
   <a href="https://github.com/AbdulRauf-Sidd/fin_scraper">
-    <img src="https://img.shields.io/badge/Project%202-Informational?style=for-the-badge&logo=github&logoColor=white" alt="Project 2"/>
+    <img src="https://img.shields.io/badge/Fin%20Scraper-Informational-00008B?style=for-the-badge&logo=github&logoColor=white" alt="Project 2"/>
   </a>
 </p>
 
