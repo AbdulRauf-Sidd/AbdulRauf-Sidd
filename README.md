@@ -66,4 +66,4 @@
   Feel free to connect with me on LinkedIn or follow me on Twitter and Instagram. I'm always open to discussing new projects, innovative ideas, or opportunities to be part of exciting ventures.
 </p>
 
-![Snake animation](https://github.com/AbdlRauf-Sidd/snake/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/AbdulRauf-Sidd/snake/blob/output/github-contribution-grid-snake.svg)
