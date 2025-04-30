@@ -19,6 +19,9 @@
   <img src="https://komarev.com/ghpvc/?username=AbdulRauf-Sidd&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
+![Cool Developer GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
+
 <h2 align="center">🛠️ Technologies and Tools 🛠️</h2>
 
 <p align="center">
