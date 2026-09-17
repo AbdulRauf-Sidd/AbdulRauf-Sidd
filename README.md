@@ -3,8 +3,8 @@
 <h3 align="center">AI Engineer & Founder building AI-powered automation, voice agents, and software systems.</h3>
 
 <p align="center">
-  <div align="center">
-  <img src="https://raw.githubusercontent.com/Prasaedonium/matrixRain/master/digitalRain.gif" width="100%" alt="Matrix Digital Rain"/>
+<div align="center">
+  <img src="./assets/matrix-binary.gif" width="100%" alt="Binary Matrix Rain"/>
 </div>
   <a href="https://www.linkedin.com/in/abdulrauf-siddiqui-2b8972182">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
